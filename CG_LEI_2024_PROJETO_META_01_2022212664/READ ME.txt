@@ -1,0 +1,10 @@
+O nome de alguns ficheiros .cpp é igual ao dos da PL7 uma vez que estes serviram como base.
+Foi usada uma cópia que foi sendo modificada ao longo do desenvolvimento.
+
+
+Comandos:
+
+Seta UP na starting screen para começar o jogo
+Tecla "c" para mudar a câmera
+Setas LEFT e RIGHT para mover a nave
+Tecla Space para disparar (pode segurar ou clicar intervaladamente)
